@@ -24,6 +24,8 @@ namespace CalculatorJenkinsDemo
             Console.WriteLine($"Division of {b} and {a} :  {cal.Divide(b, a)}");
 
             Console.WriteLine($"Squareroot of {b} : {cal.Sqrroot(b)}");
+
+            Console.WriteLine("Thank You");
       
             Console.Read();
         }
